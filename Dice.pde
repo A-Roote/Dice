@@ -5,7 +5,7 @@ void setup()
   
   noLoop();
   size(500, 500);
-  background(150,76,43);
+  background(#8694AA);
 }
 void draw()
 {
